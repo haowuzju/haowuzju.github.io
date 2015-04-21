@@ -128,9 +128,9 @@ body {
     background: black;
     z-index: 10;
     /* Fallback for web browsers that doesn't support RGBa */
-    background: rgb(153, 0, 76);
+    background: rgb(160, 13, 130);
     /* RGBa with 0.9 opacity */
-    background: rgba(153, 0, 76, 0.8);
+    background: rgba(160, 13, 130, 0.8);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000, endColorstr=#CC000000);
     /* For IE 8*/
@@ -153,9 +153,9 @@ body {
     border-radius: 8px;
 
     /* Fallback for web browsers that doesn't support RGBa */
-    background: rgb(153, 0, 76);
+    background: rgb(160, 13, 130);
     /* RGBa with 0.7 opacity */
-    background: rgba(153, 0, 76, 0.4);
+    background: rgba(160, 13, 130, 0.4);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000);
     /* For IE 8*/
@@ -206,7 +206,7 @@ nav a {
     text-align: center;
     text-decoration: none;
     font-weight: bold;
-    color: white;
+    color: #E5EF8A;
     background: transparent;
     white-space: nowrap;
     outline: none;
@@ -295,9 +295,9 @@ section {
     border-radius: 8px;
 
     /* Fallback for web browsers that doesn't support RGBa */
-    background: rgb(153, 0, 76);
+    background: rgb(160, 13, 130);
     /* RGBa with 0.7 opacity */
-    background: rgba(153, 0, 76, 0.7);
+    background: rgba(160, 13, 130, 0.7);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000);
     /* For IE 8*/
@@ -315,7 +315,6 @@ section h2 {
     font-size: 1.1em;
     line-height: 120%;
     padding: 0 0px;
-    color: #E5EF8A;
 }
 
 .column {
