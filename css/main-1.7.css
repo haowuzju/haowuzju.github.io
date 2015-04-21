@@ -18,6 +18,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    color: #E5EF8A;
 }
 
 ::-moz-selection {
@@ -70,6 +71,7 @@ textarea {
 
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
+    color: #E5EF8A;
 }
 
 .wrapper {
