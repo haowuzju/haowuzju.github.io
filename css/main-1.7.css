@@ -211,13 +211,13 @@ nav a {
 }
 
 nav li a:hover {
-    color: #fff;
+    color: #E5EF8A;
     background: #b1bf92;
     text-decoration: none;
     outline: none;
 }
 nav li a.selected {
-    color: #fff;
+    color: #E5EF8A;
     background: #b1bf92;
     text-decoration: none;
     outline: none;
@@ -251,7 +251,7 @@ html {
 
 body {
     font-family: "futura_ltbook", "HelveticaNeueLTStdRegular","HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    color: #fff;
+    color: #E5EF8A;
     text-align: center;
 
 }
