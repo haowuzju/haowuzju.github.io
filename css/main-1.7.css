@@ -18,7 +18,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
-    color: #E5EF8A;
+    color: #D8C6C6;
 }
 
 ::-moz-selection {
@@ -71,7 +71,7 @@ textarea {
 
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
-    color: #E5EF8A;
+    color: #D8C6C6;
 }
 
 .wrapper {
@@ -128,9 +128,9 @@ body {
     background: black;
     z-index: 10;
     /* Fallback for web browsers that doesn't support RGBa */
-    background: rgb(160, 13, 130);
+    background: rgb(142, 47, 79);
     /* RGBa with 0.9 opacity */
-    background: rgba(160, 13, 130, 0.6);
+    background: rgba(142, 47, 79, 0.6);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000, endColorstr=#CC000000);
     /* For IE 8*/
@@ -153,9 +153,9 @@ body {
     border-radius: 8px;
 
     /* Fallback for web browsers that doesn't support RGBa */
-    background: rgb(160, 13, 130);
+    background: rgb(142, 47, 79);
     /* RGBa with 0.7 opacity */
-    background: rgba(160, 13, 130, 0.4);
+    background: rgba(142, 47, 79, 0.4);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000);
     /* For IE 8*/
@@ -206,20 +206,20 @@ nav a {
     text-align: center;
     text-decoration: none;
     font-weight: bold;
-    color: #E5EF8A;
+    color: #D8C6C6;
     background: transparent;
     white-space: nowrap;
     outline: none;
 }
 
 nav li a:hover {
-    color: #E5EF8A;
+    color: #D8C6C6;
     background: #b1bf92;
     text-decoration: none;
     outline: none;
 }
 nav li a.selected {
-    color: #E5EF8A;
+    color: #D8C6C6;
     background: #b1bf92;
     text-decoration: none;
     outline: none;
@@ -253,7 +253,7 @@ html {
 
 body {
     font-family: "futura_ltbook", "HelveticaNeueLTStdRegular","HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    color: #E5EF8A;
+    color: #D8C6C6;
     text-align: center;
 
 }
@@ -295,9 +295,9 @@ section {
     border-radius: 8px;
 
     /* Fallback for web browsers that doesn't support RGBa */
-    background: rgb(160, 13, 130);
+    background: rgb(142, 47, 79);
     /* RGBa with 0.7 opacity */
-    background: rgba(160, 13, 130, 0.5);
+    background: rgba(142, 47, 79, 0.5);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000);
     /* For IE 8*/
@@ -308,7 +308,7 @@ section h1 {
 
     font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 2.6em;
-    color: #E5EF8A;
+    color: #D8C6C6;
 
 }
 section h2 {
