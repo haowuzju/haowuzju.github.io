@@ -155,7 +155,7 @@ body {
     /* Fallback for web browsers that doesn't support RGBa */
     background: rgb(117, 76, 120);
     /* RGBa with 0.7 opacity */
-    background: rgba(117, 76, 120, 0.8);
+    background: rgba(117, 76, 120, 0.7);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000);
     /* For IE 8*/
@@ -297,7 +297,7 @@ section {
     /* Fallback for web browsers that doesn't support RGBa */
     background: rgb(117, 76, 120);
     /* RGBa with 0.7 opacity */
-    background: rgba(117, 76, 120, 0.9);
+    background: rgba(117, 76, 120, 0.7);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000);
     /* For IE 8*/
