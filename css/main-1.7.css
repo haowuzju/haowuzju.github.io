@@ -130,7 +130,7 @@ body {
     /* Fallback for web browsers that doesn't support RGBa */
     background: rgb(117, 76, 120);
     /* RGBa with 0.9 opacity */
-    background: rgba(117, 76, 120, 1);
+    /* background: rgba(117, 76, 120, 1);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#CC000000, endColorstr=#CC000000);
     /* For IE 8*/
