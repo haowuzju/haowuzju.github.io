@@ -18,7 +18,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
-    color: #F1E4E4;
+    color: #FFF;
 }
 
 ::-moz-selection {
@@ -71,7 +71,7 @@ textarea {
 
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
-    color: #F1E4E4;
+    color: #FFF;
 }
 
 .wrapper {
@@ -128,7 +128,7 @@ body {
     background: black;
     z-index: 10;
     /* Fallback for web browsers that doesn't support RGBa */
-    background: rgb(117, 76, 120);
+    background: rgb(129, 102, 135);
     /* RGBa with 0.9 opacity */
     /* background: rgba(117, 76, 120, 1);
     /* For IE 5.5 - 7*/
@@ -153,9 +153,9 @@ body {
     border-radius: 8px;
 
     /* Fallback for web browsers that doesn't support RGBa */
-    background: rgb(117, 76, 120);
+    background: rgb(129, 102, 135);
     /* RGBa with 0.7 opacity */
-    background: rgba(117, 76, 120, 0.7);
+    background: rgba(129, 102, 135, 0.7);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000);
     /* For IE 8*/
@@ -206,20 +206,20 @@ nav a {
     text-align: center;
     text-decoration: none;
     font-weight: bold;
-    color: #F1E4E4;
+    color: #FFF;
     background: transparent;
     white-space: nowrap;
     outline: none;
 }
 
 nav li a:hover {
-    color: #F1E4E4;
+    color: #FFF;
     background: #b1bf92;
     text-decoration: none;
     outline: none;
 }
 nav li a.selected {
-    color: #F1E4E4;
+    color: #FFF;
     background: #b1bf92;
     text-decoration: none;
     outline: none;
@@ -253,7 +253,7 @@ html {
 
 body {
     font-family: "futura_ltbook", "HelveticaNeueLTStdRegular","HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-    color: #F1E4E4;
+    color: #FFF;
     text-align: center;
 
 }
@@ -295,9 +295,9 @@ section {
     border-radius: 8px;
 
     /* Fallback for web browsers that doesn't support RGBa */
-    background: rgb(117, 76, 120);
+    background: rgb(129, 102, 135);
     /* RGBa with 0.7 opacity */
-    background: rgba(117, 76, 120, 0.7);
+    background: rgba(129, 102, 135, 0.7);
     /* For IE 5.5 - 7*/
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000);
     /* For IE 8*/
@@ -308,7 +308,7 @@ section h1 {
 
     font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 2.6em;
-    color: #F1E4E4;
+    color: #FFF;
 
 }
 section h2 {
