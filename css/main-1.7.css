@@ -31,7 +31,7 @@ body {
     text-shadow: none;
 }
 a {
-    color: #b1bf92;
+    color: #71637D;
     text-decoration: none;
 }
 hr {
@@ -106,13 +106,13 @@ body {
 #gmap small a,
 #gmap small a:active,
 #gmap small a:visited {
-    color: #b1bf92;
+    color: #71637D;
     text-decoration: none;
     outline: none;
 }
 
 #gmap small a:hover {
-    color: #b1bf92;
+    color: #71637D;
     text-decoration: underline;
     outline: none;
 }
@@ -214,13 +214,13 @@ nav a {
 
 nav li a:hover {
     color: #FFF;
-    background: #b1bf92;
+    background: #71637D;
     text-decoration: none;
     outline: none;
 }
 nav li a.selected {
     color: #FFF;
-    background: #b1bf92;
+    background: #71637D;
     text-decoration: none;
     outline: none;
 }
@@ -853,7 +853,7 @@ a[href^=tel] {
     outline: none;
 }
 a.email {
-    color: #b1bf92;
+    color: #71637D;
 }
 
 .thumb {
