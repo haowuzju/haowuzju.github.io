@@ -31,7 +31,8 @@ body {
     text-shadow: none;
 }
 a {
-    color: #71637D;
+    color: #FFF;
+    font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     text-decoration: none;
 }
 hr {
